@@ -6,9 +6,9 @@ This repository contains writeups and penetration testing reports for HackTheBox
 
 | # | Machine | OS | Difficulty | Topics | Writeup | Medium |
 |---|---------|-----|------------|--------|---------|--------|
-| 1 | Archetype | Windows | Beginner | SMB, MSSQL, xp_cmdshell, WinPEAS | [archetype.md](./archetype.md) | [Medium](https://medium.com/@soulhex) |
-| 2 | Oopsie | Linux | Beginner | Web Enumeration, Cookie Manipulation, File Upload, SUID PATH Hijack | [oopsie.md](./oopsie.md) | [Medium](https://medium.com/@soulhex) |
-| 3 | Vaccine | Linux | Beginner | FTP Anonymous Login, SQL Injection, ZIP Cracking, PostgreSQL RCE, vi GTFOBin | [vaccine.md](./vaccine.md) | [Medium](https://medium.com/@soulhex) |
+| 1 | Archetype | Windows | Beginner | SMB, MSSQL, xp_cmdshell, WinPEAS | [archetype.md](./archetype.md) | [Medium](https://medium.com/@soulhex777/htb-starting-point-archetype-walkthrough-oscp-prep-43fec17700f6) |
+| 2 | Oopsie | Linux | Beginner | Web Enumeration, Cookie Manipulation, File Upload, SUID PATH Hijack | [oopsie.md](./oopsie.md) | [Medium](https://medium.com/@soulhex777/htb-starting-point-oopsie-walkthrough-oscp-prep-b95c1f838745) |
+| 3 | Vaccine | Linux | Beginner | FTP Anonymous Login, SQL Injection, ZIP Cracking, PostgreSQL RCE, vi GTFOBin | [vaccine.md](./vaccine.md) | [Medium](https://medium.com/@soulhex777/htb-starting-point-vaccine-walkthrough-oscp-prep-ce3e1c6fd519) |
 
 ## Methodology
 
